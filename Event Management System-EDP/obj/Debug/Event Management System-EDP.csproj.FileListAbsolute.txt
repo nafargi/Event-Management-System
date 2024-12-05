@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\C#\Event Management System-EDP\bin\Debug\Event Management System-EDP.exe.config
+C:\Users\ACER\Documents\C#\Event Management System-EDP\bin\Debug\Event Management System-EDP.exe
+C:\Users\ACER\Documents\C#\Event Management System-EDP\bin\Debug\Event Management System-EDP.pdb
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event Management System-EDP.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event_Management_System_EDP.Properties.Resources.resources
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event Management System-EDP.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event Management System-EDP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event Management System-EDP.exe
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event Management System-EDP.pdb
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event_Management_System_EDP.Login.resources
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event_Management_System_EDP.Events.resources
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event_Management_System_EDP.Customers.resources
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event_Management_System_EDP.Venues.resources
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event_Management_System_EDP.Dashboard.resources
+C:\Users\ACER\Documents\C#\Event Management System-EDP\obj\Debug\Event_Management_System_EDP.Feedback.resources
